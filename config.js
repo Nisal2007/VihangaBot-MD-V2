@@ -22,7 +22,7 @@ global.REACT_NUMBER = '94722403105' //මෙතන number එක.
 
 // Other
 global.owner = ['94722403105',''] //මෙතන number එක.
-global.premium = ['94722403105','9476342733'] //මෙතන number එක.
+global.premium = ['94722403105','94722403105'] //මෙතන number එක.
 global.botname = 'NASIYA BOT INC' //මෙතන නම.
 global.ownername = 'NASIYA MD' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
